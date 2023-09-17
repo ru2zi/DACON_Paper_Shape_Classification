@@ -18,7 +18,7 @@ http://ki-it.com/_common/do.php?a=full&b=12&bidx=2859&aidx=32235
 
 
 ## 특이사항
-yolo 모델 사용했는데 43시간 걸려서 학습했으나 최종 스코어 0.37 기록 <br>
+1. yolo 모델 사용했는데 43시간 걸려서 학습했으나 최종 스코어 0.37 기록 <br>
 -> 10 픽셀 미만의 작은 개체에 대한 탐지 어려움 <br>
--> augumentation 에 좀더 집중을 했어야 했다.
-effib3 모델 사용 최종 스코어 0.56
+-> augumentation 에 좀더 집중을 했어야 했다.<br>
+2. effib3 모델 사용 최종 스코어 0.56
