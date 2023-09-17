@@ -12,3 +12,6 @@
 `황승규`<br>
 `김인호`<br>
 `신호연`<br>
+
+## 추후 자료
+http://ki-it.com/_common/do.php?a=full&b=12&bidx=2859&aidx=32235
