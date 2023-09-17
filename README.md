@@ -1,5 +1,5 @@
 # DACON-도배 하자 유형 분류 AI 경진대회
-링크 : [Dakon](https://dacon.io/competitions/official/236082/overview/description)
+링크 : [Dacon](https://dacon.io/competitions/official/236082/overview/description)
 
 ## 주제
 - 도배 하자의 유형 분류 AI 모델 개발.
@@ -19,3 +19,4 @@ http://ki-it.com/_common/do.php?a=full&b=12&bidx=2859&aidx=32235
 
 ## 특이사항
 yolo 모델 사용했는데 43시간 걸려서 학습했으나 최종 스코어 0.37 기록
+effib3 모델 사용 최종 스코어 0.56
